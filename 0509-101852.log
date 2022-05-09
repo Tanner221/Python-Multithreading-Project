@@ -1,0 +1,9 @@
+10:19:05| Time for 20 frames using 1 number of processes: 13.72478159799357
+10:19:14| Time for 20 frames using 2 number of processes: 9.182527505996404
+10:19:24| Time for 20 frames using 3 number of processes: 9.653052844005288
+10:19:34| Time for 20 frames using 4 number of processes: 10.29408123101166
+10:19:45| Time for 20 frames using 5 number of processes: 10.383780417992966
+10:19:56| Time for 20 frames using 6 number of processes: 10.894368762004888
+10:20:08| Time for 20 frames using 7 number of processes: 11.810265742999036
+10:20:20| Time for 20 frames using 8 number of processes: 12.146711551991757
+10:20:20| Total Time for ALL processing: 88.0943953620008

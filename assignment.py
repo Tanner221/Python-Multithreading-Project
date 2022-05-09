@@ -96,7 +96,7 @@ if __name__ == '__main__':
 
       time = timeit.default_timer() - start_time
       yaxis_times.append(time)
-      log.write(f'Time: {time} Number of pools: {cpu}')
+      log.write(f'Time for {FRAME_COUNT} frames using {cpu} processes: {time}')
 
       
     # sample code: remove before submitting  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
